@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="darray.c" open="0" top="0" tabpos="0">
+		<Cursor position="2571" topLine="108" />
+	</File>
+	<File name="darray.h" open="0" top="0" tabpos="0">
+		<Cursor position="848" topLine="3" />
+	</File>
+	<File name="lpoly.c" open="1" top="0" tabpos="2">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="lpoly.h" open="1" top="0" tabpos="3">
+		<Cursor position="1705" topLine="37" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="5">
+		<Cursor position="6576" topLine="288" />
+	</File>
+	<File name="precompute.c" open="1" top="1" tabpos="1">
+		<Cursor position="7471" topLine="277" />
+	</File>
+	<File name="precompute.h" open="1" top="0" tabpos="4">
+		<Cursor position="510" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

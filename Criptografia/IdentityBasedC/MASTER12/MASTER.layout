@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="lpoly.c" open="1" top="0" tabpos="2">
+		<Cursor position="454" topLine="11" />
+	</File>
+	<File name="lpoly.h" open="1" top="0" tabpos="3">
+		<Cursor position="194" topLine="3" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="5">
+		<Cursor position="5668" topLine="278" />
+	</File>
+	<File name="precompute.c" open="1" top="1" tabpos="1">
+		<Cursor position="13930" topLine="242" />
+	</File>
+	<File name="precompute.h" open="1" top="0" tabpos="4">
+		<Cursor position="703" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
