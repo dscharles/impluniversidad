@@ -14,6 +14,6 @@ Código fuente de algunas de las asignaturas que he ido haciendo durante la carr
 -- ElGamal
 -- Criptografía basada en la identidad de los usuarios
 
-Todas las implementaciones están hechas en SAGE, a excepción de una versión alternativa del esquema de criptografía basada en la identidad que se implementó en C para poder medir su eficiencia frente a otras implementaciones libres (trabajo final de máster).
+Todas las implementaciones están hechas en Python+SAGE (www.sagemath.org), a excepción de una versión alternativa del esquema de criptografía basada en la identidad que se implementó en C para poder medir su eficiencia frente a otras implementaciones libres (trabajo final de máster).
 
 Referencia a la memoria del trabajo final de máster: http://upcommons.upc.edu/handle/2099.1/19371
